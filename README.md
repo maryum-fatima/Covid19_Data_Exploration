@@ -4,3 +4,5 @@
 
 #### Purpose of this project is to provide valuable information to the public and the scientific community to better understand the pandemic's dynamics.
 
+#### Within this project, I used Microsoft SQL Server Management Studio to conduct Data Exploration, subsequently transforming the acquired data into compelling visualizations using Tableau.
+
